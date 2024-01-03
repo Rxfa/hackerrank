@@ -1,2 +1,2 @@
 # HackerRank
-Solutions for some of the problems I solve on [HackerRank](https://hackerrank.com)
+Solutions for some of the problems I solved on [HackerRank](https://hackerrank.com)
